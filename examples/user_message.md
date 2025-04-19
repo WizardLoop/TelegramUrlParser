@@ -6,7 +6,7 @@
 
 _username of user + message id_
 
-**by id of user:**
+**by id of user(without username):**
 ```https://t.me/u/id/id```
 
 _user id + message id_
