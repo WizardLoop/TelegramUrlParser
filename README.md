@@ -4,6 +4,7 @@
 filter the chat type by telegram url with custom filters!
 
 Function to filter the chat type by telegram url with custom filters: (b/u) 
+_For all supported formats, go to the examples folder._
 
 all type of chats: ```channel/group/user/bot || public/private || channel comment & topics groups```
 
