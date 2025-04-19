@@ -1,12 +1,12 @@
 # channel comment
 
 ## valid url format (to use)
-**public:** 
+**public chat:** 
 ```https://t.me/username/id```
 
 _Discussion Group Username + Message ID_
 
-**private:** 
+**private chat:** 
 ```https://t.me/c/id/id```
 
 _Discussion Group ID + Message ID_
