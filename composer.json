@@ -1,7 +1,16 @@
 {
   "name": "wizardloop/telegramurlparser",
   "description": "Powerful and simple Telegram URL parser",
+  "type": "library",
   "license": "MIT",
+  "authors": [
+    {
+      "name": "WizardLoop"
+    }
+  ],
+  "require": {
+    "php": ">=7.4"
+  },
   "autoload": {
     "psr-4": {
       "Wizardloop\\TelegramUrlParser\\": "src/"
