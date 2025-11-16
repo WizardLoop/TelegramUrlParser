@@ -5,7 +5,7 @@ URLs.\
 Created by **@WizardLoop**.
 
 [![Packagist
-Version](https://img.shields.io/packagist/v/wizardloop/telegram-url-parser)](https://packagist.org/packages/wizardloop/telegram-url-parser)
+Version](https://img.shields.io/packagist/v/wizardloop/telegramurlparser)](https://packagist.org/packages/wizardloop/telegramurlparser)
 ![PHP Version](https://img.shields.io/badge/PHP-7.4%2B-blue)
 ![License](https://img.shields.io/badge/license-MIT-green)
 ![Status](https://img.shields.io/badge/status-stable-success)
