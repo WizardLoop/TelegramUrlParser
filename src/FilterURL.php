@@ -47,8 +47,8 @@ private static function parseUrl(string $url): ?array
 }
 
 /* # usage example:
-use Wizardloop\TelegramUrlParser\filterURL;
-$check = filterURL::checkUrl("https://t.me/something");
+use Wizardloop\TelegramUrlParser\FilterURL;
+$check = FilterURL::checkUrl("https://t.me/something");
 $out1 = $check['out1'] ?? null;
 $out2 = $check['out2'] ?? null;
 $out3 = $check['out3'] ?? null;
