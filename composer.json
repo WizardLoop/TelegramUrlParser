@@ -1,0 +1,9 @@
+{
+  "name": "wizardloop/telegramurlparser",
+  "description": "Powerful and simple Telegram URL parser",
+  "autoload": {
+    "psr-4": {
+      "Wizardloop\\TelegramUrlParser\\": "src/"
+    }
+  }
+}
