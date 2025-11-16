@@ -16,20 +16,6 @@ Supports public, private, bot, user, and topic-based chats.
 
 ------------------------------------------------------------------------
 
-## 📚 Table of Contents
-
--   [Features](#features)
--   [Installation](#installation)
--   [Usage](#usage)
--   [Returned Structure](#returned-structure)
--   [Supported URL Formats](#supported-url-formats)
--   [Logic Helper](#logic-helper)
--   [Project Structure](#project-structure)
--   [Author](#author)
--   [License](#license)
-
-------------------------------------------------------------------------
-
 ## ✨ Features
 
 -   Validates Telegram URLs
@@ -50,7 +36,7 @@ Supports public, private, bot, user, and topic-based chats.
     ✔ Users\
     ✔ Topic chats
 
--   Zero dependencies\
+-   Zero dependencies
 
 -   Clean static API
 
@@ -60,14 +46,14 @@ Supports public, private, bot, user, and topic-based chats.
 
 ### Composer
 
-    composer require wizardloop/telegram-url-parser
+    composer require wizardloop/telegramurlparser
 
 Or manually in `composer.json`:
 
 ``` json
 {
   "require": {
-    "wizardloop/telegram-url-parser": "^1.0"
+    "wizardloop/telegramurlparser": "^1.0"
   }
 }
 ```
